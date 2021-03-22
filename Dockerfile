@@ -1,0 +1,5 @@
+FROM debian
+WORKDIR .
+COPY /srcs .
+RUN 
+EXPOSE 80
